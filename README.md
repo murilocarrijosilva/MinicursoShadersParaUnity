@@ -741,7 +741,14 @@ Utilizando algumas texturas gratuitas encontradas na internet
 ![Inspetor com texturas e máscara](https://i.imgur.com/WT06YDB.png)
 ![Resultado](https://i.imgur.com/jPTRYtN.png)
 
-## 5. Sistemas de iluminação e estilização de gráficos
-## 6. Image effects
+## Lugares para aprender mais
+- [Documentação da Unity](https://docs.unity3d.com/Manual/ShadersOverview.html)
+- [Cg Programmin/Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
+- [The Cg Tutorial](http://developer.download.nvidia.com/CgTutorial/cg_tutorial_chapter01.html)
+- [Catlike Coding](https://catlikecoding.com/unity/tutorials/rendering/)
+- [Freya Holmér](https://www.youtube.com/user/Acegikm0)
+- [Roystan](https://roystan.net/articles/)
+- [Brackeys](https://www.youtube.com/user/Brackeys)
+- [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
+
 ## (coisas adicionais do shaderlab, animando as coisas, talvez noise, etc)
-##
