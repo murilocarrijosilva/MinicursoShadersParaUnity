@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Character : MonoBehaviour {
 
+    public ParticleSystem particle;
+
     // Object components
     Rigidbody2D _rb2d;
     Collider2D _collider;
@@ -77,6 +79,15 @@ public class Character : MonoBehaviour {
         // Jump
         if (this.isJumping && this.isGrounded) {
             newVelocity.y = Mathf.Sqrt(2 * this.gravity * this.jumpHeight);
+            particle.Play();
+            particle.transform.SetParent(null);
+        }
+
+        if (Input.GetButtonDown("Fire1")) {
+            newVelocity.y = Mathf.Sqrt(2 * this.gravity * this.jumpHeight);
+            newVelocity.x = 24;
+            particle.Play();
+            particle.transform.SetParent(null);
         }
 
         // Updates velocity
