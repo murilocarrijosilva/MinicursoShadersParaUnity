@@ -751,5 +751,3 @@ Utilizando algumas texturas gratuitas encontradas na internet
 - [Brackeys](https://www.youtube.com/user/Brackeys)
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg)
 - [Post Processing Stack v2](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.0/manual/Writing-Custom-Effects.html)
-
-## (coisas adicionais do shaderlab, animando as coisas, talvez noise, etc)
